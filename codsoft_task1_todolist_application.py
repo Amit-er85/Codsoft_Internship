@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION OF TO DO LIST
-
-#Author : Jatoth Adithya Naik
-#for    : Intenship (TASK-1)
+TASK - 1 
+#Author : Amit Maurya
+#for    : Codsoft Intenship (TASK-1)
 
 # Discription :
 # this command appplication is for tracking your tasks
@@ -12,7 +12,7 @@ tasks = []
 
 # main function
 def main():
-    print("\n\n\t\t\tby @JATOTH ADITHYA NAIK")
+    print("\n\n\t\t\tby @AMIT MAURYA")
     print("________________________________________")
     print("\n\t\t\t***TO DO LIST APP***\n") 
     while True :
