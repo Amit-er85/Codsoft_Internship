@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION OF CALCULATOR
 
-#Author : Jatoth Adithya Naik
-#for    : Intenship (TASK-2)
+#Author : Amit Maurya
+#for    : Codsoft Internship (TASK-2)
 
 # Discription :
 # this command appplication is for performing the arthmetic operations
@@ -10,7 +10,7 @@
 result =0
 
 def main():
-        print("\n\n\t\t\tby @JATOTH ADITHYA NAIK")
+        print("\n\n\t\t\tby @Amit Maurya")
         print("________________________________________")
         print("\n\t\t\t***CALCULATOR APP***\n")
         while True :
