@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION TO GENERATE RANDOM PASSWORD
 
-#Author : Jatoth Adithya Naik
-#for    : Intenship (TASK-3)
+#Author : Amit Maurya
+#for    : Codsoft Intenship (TASK-3)
 
 # Discription :
 # this command appplication generates random password
@@ -12,7 +12,7 @@ import random
 import string
 
 def main():
-    print("\n\n\t\t\tby @JATOTH ADITHYA NAIK")
+    print("\n\n\t\t\tby @Amit Maurya")
     print("________________________________________")
     print("\n\t\t\t***RANDOM PASSWORD GENERATOR APP***\n")
     # taking usename from the user
